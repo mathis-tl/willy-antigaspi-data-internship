@@ -1,0 +1,40 @@
+{
+  "reference": {
+    "nom": "Purée de pomme bio quatre gourdes",
+    "marque": "Verger Démo",
+    "format": "4 x 100 g",
+    "ean": "9999999999999",
+    "prix": null
+  },
+  "candidats": [
+    {
+      "nom": "Purée de pomme bio quatre gourdes",
+      "marque": "Verger Démo",
+      "format": "4 x 100 g",
+      "ean": "9999999999999",
+      "prix": 3.49
+    },
+    {
+      "nom": "Purée de pomme bio une gourde",
+      "marque": "Verger Démo",
+      "format": "100 g",
+      "ean": "8888888888888",
+      "prix": 0.95
+    },
+    {
+      "nom": "Purée pomme poire bio quatre gourdes",
+      "marque": "Verger Démo",
+      "format": "4 x 100 g",
+      "ean": "7777777777777",
+      "prix": 3.29
+    },
+    {
+      "nom": "Compote de pomme familiale",
+      "marque": "Autre Marque",
+      "format": "650 g",
+      "ean": "6666666666666",
+      "prix": 2.85
+    }
+  ]
+}
+

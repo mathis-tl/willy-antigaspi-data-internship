@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.DS_Store
+# Sortie générée par demo_formatage.py
+02-auto-formatage/demo-synthetique/offre_formatee.csv
