@@ -1,4 +1,4 @@
-# Démonstration synthétique — scoring de candidats
+# Démonstration synthétique : scoring de candidats
 
 Cette démonstration illustre un score d'identité simple. Elle ne contacte aucun site et
 n'utilise aucune donnée d'entreprise.

@@ -1,4 +1,4 @@
-# Architecture simplifiée — recherche PMC
+# Architecture simplifiée : recherche PMC
 
 ```mermaid
 flowchart TD

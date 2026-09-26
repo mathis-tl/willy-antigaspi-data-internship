@@ -72,9 +72,9 @@ compatibles. Les lots distincts restent séparés et les conflits sont visibles.
 
 | Statut | Sens |
 | --- | --- |
-| 🟢 | Aucun problème détecté. |
-| 🟠 | Information complémentaire ambiguë ou à vérifier. |
-| 🔴 | Donnée indispensable absente ou invalide. |
+| Vert | Aucun problème détecté. |
+| Orange | Information complémentaire ambiguë ou à vérifier. |
+| Rouge | Donnée indispensable absente ou invalide. |
 
 Un fichier peut être correctement traité tout en contenant des lignes rouges. Le rouge
 est une information destinée à l'acheteur, pas un échec technique du fichier entier.

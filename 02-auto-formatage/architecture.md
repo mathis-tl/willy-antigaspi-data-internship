@@ -1,4 +1,4 @@
-# Architecture simplifiée — auto-formatage
+# Architecture simplifiée : auto-formatage
 
 ```mermaid
 flowchart TD

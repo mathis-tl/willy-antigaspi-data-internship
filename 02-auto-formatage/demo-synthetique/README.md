@@ -1,4 +1,4 @@
-# Démonstration synthétique — normalisation d'une offre
+# Démonstration synthétique : normalisation d'une offre
 
 Cette démonstration transforme un CSV fictif en CSV normalisé. Elle illustre :
 
